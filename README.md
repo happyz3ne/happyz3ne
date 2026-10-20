@@ -37,27 +37,27 @@ public final class MrZ3NE implements Developer {
 
 ## Toolbox
 
-<div align="center">
+<h4 align="center">Languages</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,rust,python,js,html,css&theme=dark" alt="languages"/>
+</p>
 
-**Languages**
+<h4 align="center">Game & graphics</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=blender,ps,threejs&theme=dark" alt="graphics"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Fabric-DBD0B4?style=for-the-badge" alt="Fabric"/>
+  <img src="https://img.shields.io/badge/Paper-444444?style=for-the-badge" alt="Paper"/>
+  <img src="https://img.shields.io/badge/Minecraft%2026.3-62B47A?style=for-the-badge" alt="Minecraft"/>
+  <img src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="GLSL"/>
+  <img src="https://img.shields.io/badge/Blockbench-1E93D9?style=for-the-badge" alt="Blockbench"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,rust,python,js,html,css&theme=dark" alt="languages"/>
-
-**Game & graphics**
-
-<img src="https://img.shields.io/badge/Fabric-DBD0B4?style=for-the-badge" alt="Fabric"/>
-<img src="https://img.shields.io/badge/Paper-444444?style=for-the-badge" alt="Paper"/>
-<img src="https://img.shields.io/badge/Minecraft%2026.3-62B47A?style=for-the-badge" alt="Minecraft"/>
-<img src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="GLSL"/>
-<img src="https://img.shields.io/badge/Blockbench-1E93D9?style=for-the-badge" alt="Blockbench"/>
-
-<img src="https://skillicons.dev/icons?i=blender,ps,threejs&theme=dark" alt="graphics"/>
-
-**Backend & tools**
-
-<img src="https://skillicons.dev/icons?i=postgres,docker,linux,gradle,maven,git,discord&theme=dark" alt="backend"/>
-
-</div>
+<h4 align="center">Backend & tools</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,docker,linux,gradle,maven,git,discord&theme=dark" alt="backend"/>
+</p>
 
 ---
 
@@ -79,14 +79,13 @@ public final class MrZ3NE implements Developer {
 
 ## Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=happyz3ne&show_icons=true&hide_border=true&bg_color=00000000&title_color=B08A3A&icon_color=45659E&text_color=8B8B8B&rank_icon=github" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyz3ne&layout=compact&hide_border=true&bg_color=00000000&title_color=B08A3A&text_color=8B8B8B&langs_count=6" alt="top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=happyz3ne&hide_border=true&background=00000000&ring=B08A3A&fire=7A2A16&currStreakLabel=B08A3A&sideLabels=8B8B8B&dates=8B8B8B&currStreakNum=8B8B8B&sideNums=8B8B8B" alt="streak"/>
-
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=happyz3ne&show_icons=true&hide_border=true&bg_color=00000000&title_color=B08A3A&icon_color=45659E&text_color=8B8B8B&rank_icon=github" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyz3ne&layout=compact&hide_border=true&bg_color=00000000&title_color=B08A3A&text_color=8B8B8B&langs_count=6" alt="top languages"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=happyz3ne&hide_border=true&background=00000000&ring=B08A3A&fire=7A2A16&currStreakLabel=B08A3A&sideLabels=8B8B8B&dates=8B8B8B&currStreakNum=8B8B8B&sideNums=8B8B8B" alt="streak"/>
+</p>
 
 ---
 
