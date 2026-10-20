@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7A2A16,50:B08A3A,100:45659E&text=MrZ3NE&fontColor=F9EED0&fontSize=64&fontAlignY=35&desc=building%20worlds%20for%20Falatia&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="MrZ3NE"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7A2A16,50:B08A3A,100:45659E&text=MrZ3NE&fontColor=F9EED0&fontSize=64&fontAlignY=35&desc=Java%20%C2%B7%20Rust%20%C2%B7%20Minecraft%20modding&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="MrZ3NE"/>
 
 <a href="https://github.com/happyz3ne">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=B08A3A&center=true&vCenter=true&width=620&lines=Minecraft+mods+%26+server+plugins;Fabric+%C2%B7+Paper+%C2%B7+Java+25;Rust+%26+Python+backends;Shaders%2C+3D+menus%2C+hand-drawn+maps" alt="typing"/>
